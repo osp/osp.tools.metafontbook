@@ -1,0 +1,52 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: -1 -1 176 74 
+%%HiResBoundingBox: -0.25 -0.25 175.9836 73.08002 
+%%Creator: MetaPost 1.504
+%%CreationDate: 2012.11.18:1545
+%%Pages: 1
+%%DocumentResources: procset mpost-minimal
+%%DocumentSuppliedResources: procset mpost-minimal
+%%EndComments
+%%BeginProlog
+%%BeginResource: procset mpost-minimal
+/bd{bind def}bind def/fshow {exch findfont exch scalefont setfont show}bd
+/fcp{findfont dup length dict begin{1 index/FID ne{def}{pop pop}ifelse}forall}bd
+/fmc{FontMatrix dup length array copy dup dup}bd/fmd{/FontMatrix exch def}bd
+/Amul{4 -1 roll exch mul 1000 div}bd/ExtendFont{fmc 0 get Amul 0 exch put fmd}bd
+/ScaleFont{dup fmc 0 get Amul 0 exch put dup dup 3 get Amul 3 exch put fmd}bd
+/SlantFont{fmc 2 get dup 0 eq{pop 1}if Amul FontMatrix 0 get mul 2 exch put fmd}bd
+%%EndResource
+%%EndProlog
+%%BeginSetup
+%%EndSetup
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.5 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath 0 0 moveto
+34.08217 59.03221 108.43932 0 170.0787 0 curveto stroke
+newpath 0 0 moveto
+32.46321 56.22809 105.85664 11.32394 170.0787 0 curveto stroke
+newpath 0 0 moveto
+31.4198 54.42085 105.3949 23.54324 170.0787 0 curveto stroke
+newpath 0 0 moveto
+31.24226 54.11336 107.71423 36.00604 170.0787 0 curveto stroke
+newpath 0 0 moveto
+32.15997 55.70288 113.12105 47.79393 170.0787 0 curveto stroke
+newpath 0 0 moveto
+34.32436 59.45169 121.49065 57.90405 170.0787 0 curveto stroke
+newpath 0 0 moveto
+37.79521 65.46342 132.2835 65.46342 170.0787 0 curveto stroke
+newpath 0 0 moveto
+42.52417 73.65422 144.63339 69.90964 170.0787 0 curveto stroke
+newpath 0 0 moveto
+48.34283 83.7325 157.5337 71.1471 170.0787 0 curveto stroke
+newpath 0 0 moveto
+54.94722 95.17165 170.0787 69.62123 170.0787 0 curveto stroke
+newpath 0 0 moveto
+61.89133 107.19922 181.76787 66.29335 170.0787 0 curveto stroke
+newpath 0 0 moveto
+68.58984 118.80144 192.81584 62.46907 170.0787 0 curveto stroke
+newpath 0 0 moveto
+74.34288 128.76604 204.39714 59.44145 170.0787 0 curveto stroke
+showpage
+%%EOF
